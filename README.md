@@ -1,7 +1,7 @@
 - 👋 Hi, I’m NishantSethia
 - 👀 I’m interested in DataScience
 - 🌱 I’m currently learning multiple skills
-- 💞️ I’m looking to collaborate on python for datascience
+- 💞️ I’m looking to collaborate on python for datascience and machine learning
 - 📫 Email me @nishant.sethia20@gmail.com
 
 <!---
